@@ -36,8 +36,6 @@ Processing 700,000 rows with complex feature generation can quickly saturate mem
 
 ## ⚡ High-Scale Efficiency & Feature Engineering Architecture
 
-![System Architecture & Inference Workflow](https://via.placeholder.com/800x400.png?text=Insert+System+Architecture+or+Pipeline+Diagram+Here)
-*Figure 2: End-to-end pipeline architecture from raw data payload to ensemble prediction.*
 
 To achieve high predictive performance on a 700k dataset without exhausting memory, several core engineering techniques were built:
 

@@ -16,7 +16,7 @@ An end-to-end Machine Learning solution developed as part of the **DataTalks.Clu
 
 > *"Handling 700,000 records requires striking a precise balance between computational efficiency and model capacity. This repository demonstrates how custom feature engineering and blended tree-based ensembles deliver competition-grade results under real-world runtime constraints."*
 
-![Leaderboard Proof / Competition Ranking](C:\Users\ASUS\oussama3\health\health-condition-prediction\image\Predicting Student Health Risk _ Kaggle - Google Chrome 10_9_2026 9_07_34 PM.png)
+![Leaderboard Proof / Competition Ranking](C:\Users\ASUS\oussama3\health\health-condition-prediction\image\![alt text](<Predicting Student Health Risk _ Kaggle - Google Chrome 10_9_2026 9_07_34 PM.png>))
 *Figure 1: Proof of competition ranking (Top 4.2%). Replace placeholder link with your screenshot URL.*
 
 ---
